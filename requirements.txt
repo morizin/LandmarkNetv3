@@ -1,0 +1,5 @@
+numpy==1.19.2
+torch==1.7.0
+timm==0.4.13
+einops==0.3.2
+faiss_gpu==1.6.3
